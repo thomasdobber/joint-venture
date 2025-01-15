@@ -1,0 +1,87 @@
+* {padding:0px; margin:0px;}
+
+DIV{-moz-box-sizing:border-box;box-sizing:border-box;margin:0;padding:0;}
+
+body
+{
+	background-image:url(../afbeeldingen/background2.jpg);
+	height: 100%;
+	width: 100%;
+}
+
+table
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#FFFFFF;
+}
+
+.title
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+color:#FFFFFF;
+margin-left: 250px;
+padding:10px;
+
+
+}
+
+.vlak1 
+{
+	background-image:url(../afbeeldingen/background1.jpg);
+	top: 0px;
+	margin-left: -632px;
+	left: 50%;
+	position: absolute;
+	height:1200px;
+	width: 1260px;
+}
+
+.stijl1 {
+	background-color: #000000;
+	background-image: none;
+	position: absolute;
+	height: 400px;
+	width: 600px;
+	left: 435px;
+	top: 10px;
+	overflow: hidden;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#FFFFFF;
+}
+.stijl2 {
+	background-color: #000000;
+	background-position: -40px;
+	position: absolute;
+	height: auto;
+	width: 623px;
+	left: 424px;
+	top: 414px;
+	padding: 10px;
+	overflow: hidden;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#FFFFFF;
+}
+.stijl3 {
+	background-color: #000000;
+	background-image: none;
+	position: absolute;
+	height: auto;
+	width: 630;
+	padding: 10px;
+	left: 424px;
+	top: 0px;
+	overflow: hidden;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#FFFFFF;
+}
+
+
+A:link {text-decoration: none}
+A:visited {text-decoration: none; color: white;}
+A:active {text-decoration: none}
+A:hover {text-decoration: underline overline; color: white;}
